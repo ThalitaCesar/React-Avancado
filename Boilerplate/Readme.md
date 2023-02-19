@@ -1,4 +1,4 @@
-# React-Avançado
+# React-Avançado-Boilerplate
 
 Boilerplate Criado No curso de React Avançado na Udemi.
 

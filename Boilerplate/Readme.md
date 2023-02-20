@@ -6,37 +6,6 @@
 
 <h2 align="center">React Avançado</h2>
 
-<p align="center">
-  <img
-    src="https://img.shields.io/github/languages/count/ThalitaCesar/React-Avancado-Boilerplate"
-    alt="Languages count"
-  />
-  <img
-    src="https://img.shields.io/github/repo-size/ThalitaCesar/React-Avancado-Boilerplate"
-    alt="Repository size"
-  />
-  <a
-    href="https://github.com/nicolas-justin/react-avancado-boilerplate/issues">
-    <img
-      src="https://img.shields.io/github/issues/ThalitaCesar/React-Avancado-Boilerplate"
-      alt="Open issues"
-    />
-  </a>
-  <a
-    href="https://github.com/ThalitaCesar/React-Avancado-Boilerplate/pulls">
-    <img
-      src="https://img.shields.io/github/issues-pr/ThalitaCesar/React-Avancado-Boilerplate"
-      alt="Open pull requests"
-    />
-  </a>
-  <a
-    href="https://github.com/ThalitaCesar/React-Avancado-Boilerplate/commits/master">
-    <img
-      src="https://img.shields.io/github/last-commit/ThalitaCesar/React-Avancado-Boilerplate"
-      alt="Last commit"
-    />
-  </a>
-</p>
 
 <p align="center">
   <a href="#project">Projeto</a>
